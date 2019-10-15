@@ -6,6 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+permalink: /
 ---
 
-This website is under construction. Things will be updated soon.

@@ -23,7 +23,7 @@
       {% include social-metatags.html %}
     {% endif %}
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
 
     {% if site.gems contains "jekyll-feed" %}
       <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
@@ -36,13 +36,14 @@
     <link rel="alternate" media="handheld" href=""> -->
 
 
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
 
     {% include site-header.html %}
 
+    {% comment %}
     {% if page.layout == 'home' %}
       {% assign page-tagline = site.description | default: site.github.project_tagline | escape %}
     {% endif %}
@@ -78,11 +79,12 @@
       {% endif %}
       <!-- End: Post tagline -->
     </section>
+    {% endcomment %}
 
+    {{ content }}
+
+    {% comment %}
     <section class="main-content">
-
-      {{ content }}
-
       <footer class="site-footer">
         <!-- SVG icons from https://iconmonstr.com -->
 
@@ -120,6 +122,7 @@
 
       </footer>
     </section>
+    {% endcomment %}
 
     {% if site.google_analytics %}
       <script type="text/javascript">

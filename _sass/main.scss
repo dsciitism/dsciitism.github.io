@@ -1,0 +1,79 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 0.75rem 5%;
+  background-color: #fbfbfb;
+  // background-image: linear-gradient(to right, #000000, #121212, #1d1d1d, #282828, #333333);
+  border-top: 0.25rem solid #0080ff;
+	box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  color: black;
+  font-size: 1.25rem;
+  font-weight: 600;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.home-section {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  // align-items: center;
+  justify-content: center;
+  padding: 5rem 10%;
+  height: 100vh;
+  background-color: #222222;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  @media (min-width: $medium-breakpoint) {
+    // align-items: inherit;
+  }
+
+  & > * {
+    max-width: 100%;
+
+    @media (min-width: $medium-breakpoint) {
+      max-width: 75%;
+    }
+
+    @media (min-width: $large-breakpoint) {
+      max-width: 50%;
+    }
+  }
+
+  & > .heading {
+    font-size: 2rem;
+    font-weight: 600;
+
+    @media (min-width: $medium-breakpoint) {
+      font-size: 2.5rem;
+    }
+  }
+
+  & > .sub-heading {
+    margin-bottom: 1.5rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+
+    @media (min-width: $medium-breakpoint) {
+      font-size: 1.5rem;
+    }
+  }
+
+  & > .content {
+    font-size: .875rem;
+    font-style: italic;
+  }
+}
