@@ -4,19 +4,15 @@ layout: default
 
 <div>
 
-  {% for section in site.data.home_sections %}
-    <section class="home-section" style="align-items: {{ section.alignment | default: 'center' }}; background-image: url('{{ section.bg }}');">
-      <div class="heading">
-        {{ section.heading }}
-      </div>
-      <div class="sub-heading">
-        {{ section.sub-heading }}
-      </div>
-      <p class="content">
-        {{ section.content }}
-      </p>
-    </section>
-  {% endfor %}
+  <section class="home-section" style="align-items: {{ page.alignment | default: 'center' }}; background-image: url('{{ page.bg }}');">
+    <div class="heading">
+      {{ page.heading }}
+    </div>
+    <div class="sub-heading">
+      {{ page.sub-heading }}
+    </div>
+    {{ content }}
+  </section>
 
   {% comment %}
   <h2>Latest Posts</h2>
