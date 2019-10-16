@@ -1,7 +1,7 @@
 ---
-layout: members
-title: Members
+layout: patents
+title: Patents
 # tagline: Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-permalink: /members/
+permalink: /patents/
 bg: /assets/images/abstract.jpg
 ---
