@@ -15,4 +15,3 @@ bg: /assets/images/aiexcerpt.webp
 
 Welcome to the Data Science Club IIT ISM Page. This group is an intiative to promote research in the field of Datascience, Artificial Intelligence, and related areas, at IIT ISM Dhanbad.
 
-More updates, COMING SOON!!!
