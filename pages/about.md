@@ -1,13 +1,9 @@
 ---
 layout: page
-title: About
-tagline: A few more words about this theme
+title: About Us
+# tagline: A few more words about this theme
 permalink: /about/
+bg: /assets/images/abstract.jpg
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
-
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
-
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Fusce tellus odio, dapibus id fermentum quis, suscipit id erat. Etiam bibendum elit eget erat. Nullam dapibus fermentum ipsum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis pulvinar.
