@@ -29,14 +29,15 @@ members:
     linkedin: https://www.linkedin.com/
   
 mentors:
-  - name: Parth Patekar
-    avatar: /assets/images/avatar/parth.jpg
-    github: https://github.com/
-    linkedin: https://www.linkedin.com/
   - name: Aman Sinha
     avatar: /assets/images/avatar/aman_.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
+  - name: Parth Patekar
+    avatar: /assets/images/avatar/parth.jpg
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+
 
 advisors:
   - name: Professor Ludovic Krundel
