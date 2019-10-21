@@ -1,7 +1,7 @@
 ---
-layout: posts
-title: Posts
+layout: people
+title: People
 # tagline: Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-permalink: /posts/
+permalink: /people/
 bg: /assets/images/abstract.jpg
 ---

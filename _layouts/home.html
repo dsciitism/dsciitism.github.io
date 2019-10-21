@@ -4,17 +4,38 @@ layout: default
 
 <div>
 
-  <section class="home-section" style="align-items: {{ page.alignment | default: 'center' }}; background-image: url('{{ page.bg }}');">
-    <div class="heading">
-      {{ page.heading }}
-    </div>
-    <div class="sub-heading">
-      {{ page.sub-heading }}
-    </div>
-    <div class="content">
-      {{ content }}
-    </div>
-  </section>
+  {% for section in site.data.home_sections %}
+    <section class="home-section" style="background-image: url('{{ section.bg }}');">
+      <div class="container" style="align-items: {{ section.alignment | default: 'center' }};">
+        <div class="heading">
+          {{ section.heading }}
+          {% if section.badge %}
+            <span class="badge" style="background-color: {{ section.badge.color }};">
+              {{ section.badge.text }}
+            </span>
+          {% endif %}
+        </div>
+        {% if section.sub-heading %}
+          <div class="sub-heading">
+            {{ section.sub-heading }}
+          </div>
+        {% endif %}
+        <div class="content">
+          {% if section.content.layout == 'list' %}
+            <ul>
+              {% for listItem in section.content.list %}
+                <li>
+                  {{ listItem }}
+                </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            {{ section.content }}
+          {% endif %}
+        </div>
+      </div>
+    </section>
+  {% endfor %}
 
   {% comment %}
   <h2>Latest Posts</h2>

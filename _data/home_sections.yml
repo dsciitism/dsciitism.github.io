@@ -3,3 +3,16 @@
   content: Welcome to the Data Science Club IIT ISM Page. This group is an intiative to promote research in the field of Datascience, Artificial Intelligence, and related areas, at IIT ISM Dhanbad.
   alignment: flex-start
   bg: /assets/images/aiexcerpt.webp
+
+- heading: What's
+  badge:
+    color: rgba(255, 0, 0, 0.75)
+    text: New
+  content:
+    layout: list
+    list:
+      - <strong>Lorem ipsum</strong> dolor sit amet, consectetuer adipiscing elit.
+      - Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat.
+      - Duis condimentum augue id magna semper rutrum. Duis pulvinar.
+  alignment: flex-end
+  bg: /assets/images/abstract.jpg
