@@ -28,7 +28,7 @@ members:
     github: https://github.com/
     linkedin: https://www.linkedin.com/
   
-Mentors:
+mentors:
   - name: Parth Patekar
     avatar: /assets/images/avatar/parth.jpg
     github: https://github.com/
@@ -38,13 +38,13 @@ Mentors:
     github: https://github.com/
     linkedin: https://www.linkedin.com/
 
-Advisors:
+advisors:
   - name: Professor Ludovic Krundel
     avatar: /assets/images/avatar/ludovic.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
     
-Founders:
+founders:
   - name: Parardha Kumar
     avatar: /assets/images/avatar/parardha.jpg
     github: https://github.com/
