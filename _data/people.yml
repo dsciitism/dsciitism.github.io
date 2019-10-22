@@ -3,49 +3,50 @@ members:
     avatar: /assets/images/avatar/deepanshu.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Sumit Bhattacharya
     avatar: /assets/images/avatar/sumit.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Naman Khetan
     avatar: /assets/images/avatar/naman.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Aadarsh Singh
     avatar: /assets/images/avatar/aadarsh.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Manoj Patra
     avatar: /assets/images/avatar/manoj.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Priyanshu Kumar
     avatar: /assets/images/avatar/priyanshu.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Himanshu Gupta
     avatar: /assets/images/avatar/himanshu.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
     about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
-  
+
+
+
 mentors:
   - name: Aman Sinha
     avatar: /assets/images/avatar/aman_.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Parth Patekar
     avatar: /assets/images/avatar/parth.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
 
 
 advisors:
@@ -60,14 +61,13 @@ founders:
     avatar: /assets/images/avatar/parardha.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Ashwani Choudhary
     avatar: /assets/images/avatar/ashwani.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+
   - name: Rajat Gupta
     avatar: /assets/images/avatar/rajat.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.

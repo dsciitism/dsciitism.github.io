@@ -76,6 +76,7 @@
 
   &.show {
     height: auto;
+    overflow: visible;
   }
 
   @media (min-width: $medium-breakpoint) {
@@ -270,7 +271,7 @@
     font-size: 1.125rem;
   }
 
-  & .content .timeline {
+  & .timeline {
     list-style-type: none;
     margin: 0;
     padding: 1rem;
@@ -360,17 +361,21 @@
   }
 }
 
-// .members-grid {
-//   display: flex;
-//   flex-flow: wrap;
-//   justify-content: center;
-// }
+.members-grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
 
 .member-card {
-  margin-bottom: 1rem;
+  margin: 0 0.5rem 1rem;
   border-radius: 0.5rem;
-  box-shadow: 0 0 0.25rem 0 rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease 0s;
+
+  &.has-border {
+    box-shadow: 0 0 0.25rem 0 rgba(0, 0, 0, 0.1);
+  }
 
   &:hover {
     box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.1);
@@ -392,6 +397,7 @@
 
   & .avatar {
     max-width: 10em;
+    margin-bottom: 0.25rem;
   }
 
   & .social-link:hover {
@@ -401,7 +407,7 @@
   & .social-icon {
     color: $body-text-color;
     font-size: 1.75rem;
-    margin: 0.5rem 0.5rem 0;
+    margin: 0.25rem 0.5rem 0;
     transition: all 0.3s ease 0s;
 
     &:hover {
