@@ -10,5 +10,5 @@ permalink: /
 heading: Data Science Club
 sub-heading: IIT ISM DHANBAD
 alignment: flex-start
-bg: /assets/images/aiexcerpt.webp
+bg: /assets/images/home.webp
 ---

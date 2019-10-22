@@ -1,0 +1,70 @@
+---
+layout: page
+---
+
+<section class="people-section">
+  <div class="title">Advisors</div>
+  <div class="members-grid">
+    {% for member in site.data.people.advisors %}
+      <div class="row align-items-center member-card">
+        <div class="col-sm-4">
+          <div class="left">
+            <div>
+              <img class="img-fluid avatar" src="{{ member.avatar }}" />
+            </div>
+            <div>
+              {% if member.github %}
+                <a class="social-link" href="{{ member.github }}">
+                  <i class="fa fa-github-square social-icon"></i>
+                </a>
+              {% endif %}
+              {% if member.linkedin %}
+                <a class="social-link" href="{{ member.linkedin }}">
+                  <i class="fa fa-linkedin-square social-icon"></i>
+                </a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-8">
+          <div class="right">
+            <div class="name">
+              {{ member.name }}
+            </div>
+            <p class="about">
+              {{ member.about }}
+            </p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% comment %}
+<section class="people-section">
+  <div class="title">Advisors</div>
+  <div class="members-grid">
+    {% for member in site.data.people.advisors %}
+      <div class="member-card">
+        <img class="avatar img-fluid" src="{{ member.avatar }}" />
+        <div class="name">
+          {{ member.name }}
+        </div>
+        <div>
+          {% if member.github %}
+            <a class="social-link" href="{{ member.github }}">
+              <img class="social-icon" src="/assets/images/github-logo.svg" />
+            </a>
+          {% endif %}
+          {% if member.linkedin %}
+            <a class="social-link" href="{{ member.linkedin }}">
+              <img class="social-icon" src="/assets/images/linkedin-logo.svg" />
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+{% endcomment %}

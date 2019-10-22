@@ -4,6 +4,49 @@ layout: default
 
 <div>
 
+  <section class="home-section" style="background-image: url('{{ site.data.home.bg }}');">
+    <div class="row container">
+      <div class="col-md-6">
+        <div class="left">
+          <div class="heading">
+            {{ site.data.home.left.heading }}
+          </div>
+          <div class="sub-heading">
+            {{ site.data.home.left.sub-heading }}
+          </div>
+          <div class="content">
+            {{ site.data.home.left.content }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="right">
+          <div class="heading">
+            {{ site.data.home.right.heading }}
+            <span class="badge" style="background-color: {{ site.data.home.right.badge.color }};">
+              {{ site.data.home.right.badge.text }}
+            </span>
+          </div>
+          <div class="content">
+            <ul class="timeline">
+              {% for listItem in site.data.home.right.content %}
+                <li class="row align-items-center">
+                  <div class="col-3 date">
+                    {{ listItem.date }}
+                  </div>
+                  <div class="col-9 event">
+                    {{ listItem.event }}
+                  </div>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% comment %}
   {% for section in site.data.home_sections %}
     <section class="home-section" style="background-image: url('{{ section.bg }}');">
       <div class="container" style="align-items: {{ section.alignment | default: 'center' }};">
@@ -36,6 +79,7 @@ layout: default
       </div>
     </section>
   {% endfor %}
+  {% endcomment %}
 
   {% comment %}
   <h2>Latest Posts</h2>
