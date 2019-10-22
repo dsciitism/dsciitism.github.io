@@ -3,7 +3,7 @@ layout: page
 title: About
 # tagline: A few more words about this theme
 permalink: /about/
-bg: /assets/images/abstract.jpg
+bg: /assets/images/abstract2.png
 ---
 
 
