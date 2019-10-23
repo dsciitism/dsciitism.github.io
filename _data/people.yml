@@ -49,12 +49,6 @@ mentors:
     linkedin: https://www.linkedin.com/
 
 
-advisors:
-  - name: Professor Ludovic Krundel
-    avatar: /assets/images/avatar/ludovic.jpg
-    github: https://github.com/
-    linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
 
 founders:
   - name: Parardha Kumar
@@ -71,3 +65,12 @@ founders:
     avatar: /assets/images/avatar/rajat.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
+
+
+
+advisors:
+  - name: Professor Ludovic Krundel
+    avatar: /assets/images/avatar/ludovic.jpg
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
