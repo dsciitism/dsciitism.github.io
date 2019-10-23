@@ -281,6 +281,7 @@
     text-align: left;
     height: 45vh;
     overflow-y: auto;
+    border-radius: 0.25rem;
     // background-color: rgba(251,251,251,0.75);
     background-color: rgba(34,34,34,0.75);
     box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.1);
@@ -491,13 +492,25 @@ $grid_cols: 12;
 	}
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 88em !important) {
 	@for $i from 1 through $grid_cols {
 		.col-xl-#{$i} {
 			flex: 0 0 (100 / ($grid_cols / $i))*1%;
 			max-width: (100 / ($grid_cols / $i))*1%;
 		}
 	}
+}
+
+.gallery-image {
+  padding: 0.5rem;
+
+  & img {
+    transition: all 0.2s ease 0s;
+
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
 }
 
 .form-group {
