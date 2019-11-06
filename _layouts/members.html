@@ -3,9 +3,9 @@ layout: page
 ---
 
 <section class="people-section">
-  <div class="title">Members</div>
+  <div class="title">Founders</div>
   <div class="members-grid">
-    {% for member in site.data.people.members %}
+    {% for member in site.data.people.founders %}
       <div class="col-6 col-md-4 col-lg-3">
         <div class="member-card">
           <div class="left">
@@ -67,9 +67,9 @@ layout: page
 </section>
 
 <section class="people-section">
-  <div class="title">Founders</div>
+  <div class="title">Members</div>
   <div class="members-grid">
-    {% for member in site.data.people.founders %}
+    {% for member in site.data.people.members %}
       <div class="col-6 col-md-4 col-lg-3">
         <div class="member-card">
           <div class="left">
@@ -97,3 +97,4 @@ layout: page
     {% endfor %}
   </div>
 </section>
+
