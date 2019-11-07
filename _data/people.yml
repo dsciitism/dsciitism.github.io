@@ -67,18 +67,18 @@ members:
     avatar: /assets/images/avatar/himanshu.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
-
+   
 
 advisors:
   - name: Professor Subhashis  Chatterjee
     avatar: /assets/images/avatar/subhasis.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+    about: Dr. Chatterjee is a researcher and an esteemed member of the society of Applied mathematics at IIT(ISM), Dhanbad. Along with Software and Web software reliability being his major areas of interest, he also specializes in Software Engineering, Algorithm Design & Analysis, and Bioinformatics. Having worked extensively on software reliability, he has also been named as an esteemed member of the IEEE Reliability Society. Mr. Chatterjee has notably been involved in a collaboration project with ISRO on Predicting Reliability and Optimal Release Time of Various Categories Software Systems. He has also been part of multiple UGC funded projects based on applications of Sampling Theory,  Stochastic Process, Operation Research and Fuzzy Mathematics in Development of Software Reliability Models.
 
   - name: Professor Ludovic Krundel
     avatar: /assets/images/avatar/ludovic.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-    about: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Fusce wisi. Aliquam erat volutpat. Duis condimentum augue id magna semper rutrum. Duis pulvinar. Praesent in mauris eu tortor porttitor accumsan.
+    about: Dr. Ludovic Krundel is a research scientist passionate about cybernetics, machine learning, mobile robotics, quantum physics as well as transformative technologies and their implications in our modern and future societies. Dr. Krundel has notably worked with Philips Research Labs, Eindhoven, Holland and ARM Ltd., Cambridge, UK, and now regularly intervenes as a consultant at various high-tech companies. Ludovic holds a PhD in Machine Learning Engineering specialised in the concerns of “Developing AI in Hardware, with Ethics" at Loughborough University of Technologies, UK and two Master's Degrees in Microelectronics and Robotics from Montpellier University of Sciences, France.
+    
