@@ -14,6 +14,11 @@ founders:
     avatar: /assets/images/avatar/rajat.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
+  
+  - name: Vineet Pratik
+    avatar: /assets/images/avatar/vineet.jpeg
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
 
 mentors:
   - name: Aman Sinha
@@ -67,7 +72,11 @@ members:
     avatar: /assets/images/avatar/himanshu.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-   
+ 
+ - name: Pradyumna Gupta
+    avatar: /assets/images/avatar/prady.jpg
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
 
 advisors:
   - name: Professor Subhashis  Chatterjee
