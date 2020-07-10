@@ -26,10 +26,11 @@ mentors:
     github: https://github.com/
     linkedin: https://www.linkedin.com/
 
-  - name: Parth Patekar
-    avatar: /assets/images/avatar/parth.jpg
+  - name: Rohit Agarwal
+    avatar: /assets/images/avatar/rohit_.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
+
 
   - name: Akshaya Athawale
     avatar: /assets/images/avatar/akshaya_.jpeg
@@ -38,6 +39,12 @@ mentors:
 
 
 members:
+
+  - name: Parth Patekar
+    avatar: /assets/images/avatar/parth.jpg
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+  
   - name: Deepanshu Pandey
     avatar: /assets/images/avatar/deepanshu.jpeg
     github: https://github.com/
