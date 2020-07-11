@@ -36,14 +36,16 @@ mentors:
     avatar: /assets/images/avatar/akshaya_.jpeg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-
-
-members:
-
+   
+  
   - name: Parth Patekar
     avatar: /assets/images/avatar/parth.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
+
+
+members:
+
   
   - name: Deepanshu Pandey
     avatar: /assets/images/avatar/deepanshu.jpeg
@@ -82,6 +84,31 @@ members:
  
   - name: Pradyumna Gupta
     avatar: /assets/images/avatar/prady.jpg
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+   
+  - name: Saket Gupta
+    avatar: /assets/images/avatar/temp_avatar.png
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+    
+  - name: Harsh Bhamore
+    avatar: /assets/images/avatar/temp_avatar.png
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+   
+  - name: Sirigireddy Dhana Laxmi
+    avatar: /assets/images/avatar/temp_avatar.png
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+  
+  - name: Harsh Mishra
+    avatar: /assets/images/avatar/temp_avatar.png
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+    
+  - name: Krishna Pal Deora 
+    avatar: /assets/images/avatar/temp_avatar.png
     github: https://github.com/
     linkedin: https://www.linkedin.com/
 
