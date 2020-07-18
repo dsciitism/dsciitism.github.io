@@ -9,13 +9,12 @@ right:
     color: rgba(255, 0, 0, 0.75)
     text: New
   content:
-    - date: December 1
-      event: Winter Data Science Program 
-    - date: November 26-27
-      event: DSC Orientation Program
-    - date: October 17-20
-      event: Finding Chandler -Data Hackathon
-    - date: October 15-16
-      event: Basic ML/NLP Workshop
+    - date: June 2020
+      event: 2 papers accepted at SemEval 2020
+    - date: April 2020
+      event: 1 paper accepted at FigLang Workshop, ACL 2020
+    
+    #- date: October 15-16
+     # event: Basic ML/NLP Workshop
 
 bg: /assets/images/abstract1.jpg
