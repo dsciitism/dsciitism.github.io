@@ -76,7 +76,12 @@ members:
     avatar: /assets/images/avatar/priyanshu.jpg
     github: https://github.com/
     linkedin: https://www.linkedin.com/
-
+    
+  - name: Amit Kumar Jena
+    avatar: /assets/images/avatar/temp_avatar.png
+    github: https://github.com/
+    linkedin: https://www.linkedin.com/
+    
   - name: Himanshu Gupta
     avatar: /assets/images/avatar/himanshu.jpeg
     github: https://github.com/
