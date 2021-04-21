@@ -13,6 +13,12 @@ right:
       event: 2 papers accepted at SemEval 2020
     - date: April 2020
       event: 1 paper accepted at FigLang Workshop, ACL 2020
+    - date: Aug 2020
+      event: 1st position at Fake News Workshop, KDD 2020
+    - date: Nov 2020
+      event: 2 papers accepted at WNUT Workshop, EMNLP 2020 
+    - date: March 2021
+      event: 3rd position at SegPC 2021 Worshop, ISBI 2021
     
     #- date: October 15-16
      # event: Basic ML/NLP Workshop

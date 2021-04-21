@@ -16,10 +16,14 @@ bg: /assets/images/abstract2.png
 
    Authors: Amit Kumar Jena, Aman Sinha, Rohit Agarwal
 
-3. <strong><em>DSC IIT-ISM at SemEval-2020 Task 8: Bi-Fusion Techniques for Deep Meme Emotion Analysis</em></strong> [[Paper]()] [[Code](https://github.com/dsciitism/SemEval-2020-Task-8)]
+3. <strong><em>DSC IIT-ISM at SemEval-2020 Task 8: Bi-Fusion Techniques for Deep Meme Emotion Analysis</em></strong> [[Paper](https://arxiv.org/pdf/2008.00825.pdf)] [[Code](https://github.com/dsciitism/SemEval-2020-Task-8)]
 
    Authors: Himanshu Gupta, Pradyumna Gupta and Aman Sinha
 
-4. <strong><em>DSC IIT-ISM at SemEval-2020 Task 6: Boosting BERT with Dependencies for Definition Extraction</em></strong> [[Paper]()] [[Code](https://github.com/dsciitism/SemEval-2020-Task-6)]
+4. <strong><em>DSC IIT-ISM at SemEval-2020 Task 6: Boosting BERT with Dependencies for Definition Extraction</em></strong> [[Paper](https://arxiv.org/pdf/2009.08180.pdf)] [[Code](https://github.com/dsciitism/SemEval-2020-Task-6)]
 
    Authors: Aadarsh Singh, Priyanshu Kumar and Aman Sinha
+
+5. <strong><em>DSC IIT-ISM at WNUT-2020 Task 2: Detection of COVID-19 informative tweets using RoBERTa</em></strong> [[Paper](https://arxiv.org/pdf/2010.11238.pdf)] [[Code](https://github.com/dsciitism/WNUT-2020-Task-2)]
+
+   Authors: SD Laxmi, Rohit Agarwal and Aman Sinha
