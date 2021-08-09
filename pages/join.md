@@ -7,4 +7,6 @@ bg: /assets/images/abstract2.png
 ---
 
 
-To be updated soon!!!
+If you want to work on interesting problems, don't hesistate to fill up the form below and reach out to us :-)
+
+
